@@ -1,6 +1,10 @@
 # a_prueba
 
-A new Flutter project.
+Este proyecto es un Quizz.
+Pasos a mejorar:
+1- desarrollar conexión con la api <https://opentdb.com/>
+2- ubicar de forma aleatoria los botones y preguntas
+3- generar la personalización de las categorias y preguntas elegidas por el usuario.
 
 ## Getting Started
 
